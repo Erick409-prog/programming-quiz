@@ -31,7 +31,7 @@ if play = "y"
     to be prepared when camping at place, so I made sure to pack a 
     sleeping bag, flashlight, and a """ +noun_1+""". The possibility of seeing a 
     """ +animal_1+""" makes me feel """ +adjective_1+""". I am excited to go 
-    hiking on the """ +adjective_2+""" trail. If I see a """ +adjective_3 +""" """ +animal_2+"""
+    hiking on the """+adjective_2+""" trail. If I see a """ +adjective_3 +""" """+animal_2+"""
     on the hike, I will take it home as my new pet! The best part of 
     Camping is eating """ +food+""" by the campfire!
     """)
@@ -43,3 +43,4 @@ if play = "y"
     
 
     
+
