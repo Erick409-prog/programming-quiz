@@ -1,0 +1,11 @@
+problem_1= input ("adding or subtracting? (add/sub)")
+if problem_1 == "add":
+    num_1= float(input("enter a number:"))
+    num_2= float(input("enter a number:"))
+    result= (num_1+num_2)
+    print("the result is:", result)
+elif problem_1 == "sub":
+    num_1= float(input("enter a number:"))
+    num_2= float(input("enter a number:")) 
+    result= (num_1-num_2)
+    print("the result is:", result)
